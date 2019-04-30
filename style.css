@@ -1,7 +1,7 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #696969;
 }
 
 #header
@@ -36,7 +36,7 @@
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #fff;
+	color: #FFA07A;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
